@@ -170,16 +170,16 @@ Your browser will open automatically.
 ![Performance Analysis](./screenshot/Screenshot%202026-06-14%20141648.png)
 
 ### AI Feedback
-![AI Feedback](./screenshot/Screenshot%202026-06-14%20141708.png)
+![Example question](./screenshot/Screenshot%202026-06-14%20141708.png)
 
 ### Interview Feedback
-![Interview Feedback](./screenshot/Screenshot%202026-06-14%20141725.png)
+![Example 2](./screenshot/Screenshot%202026-06-14%20141725.png)
 
 ### Detailed Evaluation
-![Detailed Evaluation](./screenshot/Screenshot%202026-06-14%20141741.png)
+![Example 3](./screenshot/Screenshot%202026-06-14%20141741.png)
 
 ### Technical Feedback
-![Technical Feedback](./screenshot/Screenshot%202026-06-14%20141757.png)
+![AI Feedback](./screenshot/Screenshot%202026-06-14%20141757.png)
 
 
 ## 🎯 Supported Job Roles
