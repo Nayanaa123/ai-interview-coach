@@ -211,6 +211,15 @@ function App() {
           <button onClick={() => setStep("setup")} style={{ ...btnPrimary, flex: "none" }}>
             Start Interview →
           </button>
+          <p
+            style={{
+              marginTop: "30px",
+              color: "#9ca3af",
+              fontSize: "14px"
+           }}
+          >
+           Developed by Nayana N S
+          </p>
         </div>
       )}
 
