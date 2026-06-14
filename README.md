@@ -155,6 +155,31 @@ Your browser will open automatically.
 8. After Q5, view your complete performance report
 
 ---
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](screenshots/Screenshot%202026-06-14%20141539.png)
+
+### Job Role Selection
+![Job Role Selection](screenshots/Screenshot%202026-06-14%20141615.png)
+
+### Resume Upload
+![Resume Upload](screenshots/Screenshot%202026-06-14%20141633.png)
+
+### Performance Analysis
+![Performance Analysis](screenshots/Screenshot%202026-06-14%20141648.png)
+
+### AI Feedback
+![AI Feedback](screenshots/Screenshot%202026-06-14%20141708.png)
+
+### Interview Feedback
+![Interview Feedback](screenshots/Screenshot%202026-06-14%20141725.png)
+
+### Detailed Evaluation
+![Detailed Evaluation](screenshots/Screenshot%202026-06-14%20141741.png)
+
+### Technical Feedback
+![Technical Feedback](screenshots/Screenshot%202026-06-14%20141757.png)
 
 ## 🎯 Supported Job Roles
 Frontend Developer
