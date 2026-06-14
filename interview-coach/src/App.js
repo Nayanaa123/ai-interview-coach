@@ -124,7 +124,7 @@ function App() {
     setLoading(true);
 
     try {
-      const res = await fetch("http://127.0.0.1:8000/analyze-answer", {
+      const res = await fetch("https://ai-interview-coach-backend-esgc.onrender.com/analyze-answer", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
