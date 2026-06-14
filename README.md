@@ -169,16 +169,16 @@ Your browser will open automatically.
 ### Performance Analysis
 ![Performance Analysis](./screenshot/Screenshot%202026-06-14%20141648.png)
 
-### AI Feedback
+### Example 1
 ![Example question](./screenshot/Screenshot%202026-06-14%20141708.png)
 
-### Interview Feedback
+### Example 2
 ![Example 2](./screenshot/Screenshot%202026-06-14%20141725.png)
 
-### Detailed Evaluation
+### Example 3
 ![Example 3](./screenshot/Screenshot%202026-06-14%20141741.png)
 
-### Technical Feedback
+### AI Feedback
 ![AI Feedback](./screenshot/Screenshot%202026-06-14%20141757.png)
 
 
